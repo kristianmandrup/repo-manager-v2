@@ -1,7 +1,5 @@
-html
-  body
-    .right.menu
-      .item
-        a.ui.button(href='${login.link}') ${login.label}
-      .item
-        a.ui.primary.button(href='${register.link}') ${register.label}
+div(class="${align menu}")
+  .item
+    link-button(link='${login.link}' label='${login.label}')
+  .item
+    link-button(link='${register.link}' type='primary' label='${register.label}') 
