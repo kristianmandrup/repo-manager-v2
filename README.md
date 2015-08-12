@@ -1,5 +1,5 @@
-markoa-tester
-=============
+Repo Manager
+============
 
 Getting started
 ---------------
@@ -33,7 +33,7 @@ Install browser-refresh
 
 Then launch application with browser-refresh
 
-`browser-refresh test`
+`browser-refresh index`
 
 This will ensure that any change to a marko template will cause a browser refresh for instant feedback :)
 
