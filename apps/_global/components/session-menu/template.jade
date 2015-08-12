@@ -1,6 +1,7 @@
-.right.menu
-    .item
-        a.ui.button Log in
-    |          
-    .item
-        a.ui.primary.button Sign Up
+html
+  body
+    .right.menu
+      .item
+        a.ui.button(href='${login.link}') ${login.label}
+      .item
+        a.ui.primary.button(href='${register.link}') ${register.label}

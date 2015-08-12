@@ -2,7 +2,4 @@
 /.cache
 /build
 /dist
-/semantic/dist
 *.marko.js
-.DS_Store
-*.log
