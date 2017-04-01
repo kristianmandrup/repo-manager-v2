@@ -1,6 +1,8 @@
 Repo Manager
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/repo-manager-v2.svg)](https://greenkeeper.io/)
+
 Getting started
 ---------------
 
